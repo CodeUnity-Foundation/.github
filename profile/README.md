@@ -1,4 +1,9 @@
-# CodeUnity Foundation 🚀
+<div align="center">
+    <h1>Hello Open-source 🚀</h1>
+    <img src="https://github.com/CodeUnity-Foundation/.github/assets/83405614/f6b83a04-4ecc-4786-b948-388115678f7d" height="200" />
+</div>
+
+<br />
 
 Welcome to CodeUnity Foundation! We're dedicated to democratizing access to high-quality tools by offering open-source solutions that are typically costly. Our mission is to empower individuals and communities by making quality resources accessible to everyone, fostering collaboration and innovation in the tech world.
 
